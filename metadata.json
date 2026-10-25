@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dental Health - Quality Healthcare",
+  "description": "Quality Healthcare - Modern single-page dental clinic landing page with masked cards and staggered animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
